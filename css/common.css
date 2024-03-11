@@ -54,3 +54,38 @@ font-family: "Montserrat", sans-serif;
     height: 40px;
     padding: 8px 16px;
 }
+
+/* Task 2*/
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px 16px;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Task 3*/
+#name-input {
+font-family: "Montserrat", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #2e2f42;
+width: 360px;
+height: 40px;
+}
+#name-output {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.33333;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+
+
+/* Task 4*/
+/* Task 5*/
+/* Task 6*/
