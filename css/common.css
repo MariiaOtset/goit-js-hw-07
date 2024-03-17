@@ -75,7 +75,10 @@ letter-spacing: 0.04em;
 color: #2e2f42;
 width: 360px;
 height: 40px;
+border-radius: 8px;
+padding: 24px;
 }
+
 #name-output {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
@@ -84,7 +87,6 @@ height: 40px;
   letter-spacing: 0.04em;
   color: #2e2f42;
 }
-
 
 /* Task 4*/
 /* Task 5*/
