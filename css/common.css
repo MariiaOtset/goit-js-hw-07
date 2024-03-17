@@ -129,5 +129,55 @@ button {
     color: #fff;
     border: none;
 }
+
 /* Task 5*/
+.change-color {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 148px;
+  height: auto;
+white-space: nowrap;
+}
+
+.widget>p {
+  font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #2e2f42;
+}
+
 /* Task 6*/
+#controls>input {
+  border: 1px solid #808080;
+    border-radius: 8px;
+    padding: 8px 72px;
+    width: 180px;
+    height: 40px;
+}
+    #boxes {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  
+    #boxes div {
+      width: 30px;
+      height: 30px;
+      margin: 5px;
+    }
+button[data-create] {
+  background: #4e75ff;
+  border-radius: 8px;
+    padding: 8px 16px;
+    width: 120px;
+    height: 40px;
+}
+
+button[data-destroy] {
+  border-radius: 8px;
+    padding: 8px 16px;
+    width: 120px;
+    height: 40px;
+    background: #ff4e4e;
+}
