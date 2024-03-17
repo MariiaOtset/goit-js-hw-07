@@ -156,12 +156,12 @@ white-space: nowrap;
     width: 180px;
     height: 40px;
 }
-    #boxes {
+#boxes {
       display: flex;
       flex-wrap: wrap;
     }
   
-    #boxes div {
+#boxes div {
       width: 30px;
       height: 30px;
       margin: 5px;
